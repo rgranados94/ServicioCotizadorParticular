@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AutoMapper\IMapperInstance.cs" />
+    <Compile Remove="Loggin\Logger.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Loggin\Logger.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CotizadorParticular.Dominio.Entidad\CotizadorParticular.Dominio.Entidad.csproj" />
+    <ProjectReference Include="..\CotizadorParticular.Nucleo.DTO\CotizadorParticular.Nucleo.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

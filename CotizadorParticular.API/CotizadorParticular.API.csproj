@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="SimpleMappings.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CotizadorParticular.Aplicacion.Contrato\CotizadorParticular.Aplicacion.Contrato.csproj" />
+    <ProjectReference Include="..\CotizadorParticular.Aplicacion.Servicio\CotizadorParticular.Aplicacion.Servicio.csproj" />
+    <ProjectReference Include="..\CotizadorParticular.Infraestructura\CotizadorParticular.Infraestructura.csproj" />
+  </ItemGroup>
+
+</Project>

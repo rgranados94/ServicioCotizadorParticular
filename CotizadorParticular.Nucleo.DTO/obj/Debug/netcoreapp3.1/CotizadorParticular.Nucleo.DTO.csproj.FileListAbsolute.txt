@@ -1,0 +1,8 @@
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Nucleo.DTO\bin\Debug\netcoreapp3.1\CotizadorParticular.Nucleo.DTO.deps.json
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Nucleo.DTO\bin\Debug\netcoreapp3.1\CotizadorParticular.Nucleo.DTO.dll
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Nucleo.DTO\bin\Debug\netcoreapp3.1\CotizadorParticular.Nucleo.DTO.pdb
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Nucleo.DTO\obj\Debug\netcoreapp3.1\CotizadorParticular.Nucleo.DTO.csprojAssemblyReference.cache
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Nucleo.DTO\obj\Debug\netcoreapp3.1\CotizadorParticular.Nucleo.DTO.AssemblyInfoInputs.cache
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Nucleo.DTO\obj\Debug\netcoreapp3.1\CotizadorParticular.Nucleo.DTO.AssemblyInfo.cs
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Nucleo.DTO\obj\Debug\netcoreapp3.1\CotizadorParticular.Nucleo.DTO.dll
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Nucleo.DTO\obj\Debug\netcoreapp3.1\CotizadorParticular.Nucleo.DTO.pdb

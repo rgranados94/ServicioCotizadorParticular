@@ -1,0 +1,17 @@
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\bin\Debug\netcoreapp3.0\CotizadorParticular.Aplicacion.Servicio.deps.json
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\bin\Debug\netcoreapp3.0\CotizadorParticular.Aplicacion.Servicio.dll
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\bin\Debug\netcoreapp3.0\CotizadorParticular.Aplicacion.Servicio.pdb
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\bin\Debug\netcoreapp3.0\CotizadorParticular.Aplicacion.Contrato.dll
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\bin\Debug\netcoreapp3.0\CotizadorParticular.Dominio.Entidad.dll
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\bin\Debug\netcoreapp3.0\CotizadorParticular.Infraestructura.dll
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\bin\Debug\netcoreapp3.0\CotizadorParticular.Nucleo.DTO.dll
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\bin\Debug\netcoreapp3.0\CotizadorParticular.Aplicacion.Contrato.pdb
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\bin\Debug\netcoreapp3.0\CotizadorParticular.Dominio.Entidad.pdb
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\bin\Debug\netcoreapp3.0\CotizadorParticular.Infraestructura.pdb
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\bin\Debug\netcoreapp3.0\CotizadorParticular.Nucleo.DTO.pdb
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\obj\Debug\netcoreapp3.0\CotizadorParticular.Aplicacion.Servicio.csprojAssemblyReference.cache
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\obj\Debug\netcoreapp3.0\CotizadorParticular.Aplicacion.Servicio.AssemblyInfoInputs.cache
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\obj\Debug\netcoreapp3.0\CotizadorParticular.Aplicacion.Servicio.AssemblyInfo.cs
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\obj\Debug\netcoreapp3.0\CotizadorParticular.Aplicacion.Servicio.csproj.CopyComplete
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\obj\Debug\netcoreapp3.0\CotizadorParticular.Aplicacion.Servicio.dll
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Aplicacion.Servicio\obj\Debug\netcoreapp3.0\CotizadorParticular.Aplicacion.Servicio.pdb

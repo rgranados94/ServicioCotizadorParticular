@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CotizadorParticular.Aplicacion.Contrato/1.0.0": {
+        "dependencies": {
+          "CotizadorParticular.Nucleo.DTO": "1.0.0"
+        },
+        "runtime": {
+          "CotizadorParticular.Aplicacion.Contrato.dll": {}
+        }
+      },
+      "CotizadorParticular.Dominio.Entidad/1.0.0": {
+        "runtime": {
+          "CotizadorParticular.Dominio.Entidad.dll": {}
+        }
+      },
+      "CotizadorParticular.Nucleo.DTO/1.0.0": {
+        "dependencies": {
+          "CotizadorParticular.Dominio.Entidad": "1.0.0"
+        },
+        "runtime": {
+          "CotizadorParticular.Nucleo.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CotizadorParticular.Aplicacion.Contrato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CotizadorParticular.Dominio.Entidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CotizadorParticular.Nucleo.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

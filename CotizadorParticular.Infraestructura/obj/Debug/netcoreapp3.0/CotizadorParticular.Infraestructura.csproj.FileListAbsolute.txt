@@ -1,0 +1,13 @@
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Infraestructura\bin\Debug\netcoreapp3.0\CotizadorParticular.Infraestructura.deps.json
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Infraestructura\bin\Debug\netcoreapp3.0\CotizadorParticular.Infraestructura.dll
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Infraestructura\bin\Debug\netcoreapp3.0\CotizadorParticular.Infraestructura.pdb
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Infraestructura\bin\Debug\netcoreapp3.0\CotizadorParticular.Dominio.Entidad.dll
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Infraestructura\bin\Debug\netcoreapp3.0\CotizadorParticular.Nucleo.DTO.dll
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Infraestructura\bin\Debug\netcoreapp3.0\CotizadorParticular.Dominio.Entidad.pdb
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Infraestructura\bin\Debug\netcoreapp3.0\CotizadorParticular.Nucleo.DTO.pdb
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Infraestructura\obj\Debug\netcoreapp3.0\CotizadorParticular.Infraestructura.csprojAssemblyReference.cache
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Infraestructura\obj\Debug\netcoreapp3.0\CotizadorParticular.Infraestructura.AssemblyInfoInputs.cache
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Infraestructura\obj\Debug\netcoreapp3.0\CotizadorParticular.Infraestructura.AssemblyInfo.cs
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Infraestructura\obj\Debug\netcoreapp3.0\CotizadorParticular.Infraestructura.csproj.CopyComplete
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Infraestructura\obj\Debug\netcoreapp3.0\CotizadorParticular.Infraestructura.dll
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Infraestructura\obj\Debug\netcoreapp3.0\CotizadorParticular.Infraestructura.pdb

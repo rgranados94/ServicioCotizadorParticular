@@ -1,0 +1,7 @@
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Dominio.Entidad\bin\Debug\netcoreapp3.0\CotizadorParticular.Dominio.Entidad.deps.json
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Dominio.Entidad\bin\Debug\netcoreapp3.0\CotizadorParticular.Dominio.Entidad.dll
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Dominio.Entidad\bin\Debug\netcoreapp3.0\CotizadorParticular.Dominio.Entidad.pdb
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Dominio.Entidad\obj\Debug\netcoreapp3.0\CotizadorParticular.Dominio.Entidad.AssemblyInfoInputs.cache
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Dominio.Entidad\obj\Debug\netcoreapp3.0\CotizadorParticular.Dominio.Entidad.AssemblyInfo.cs
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Dominio.Entidad\obj\Debug\netcoreapp3.0\CotizadorParticular.Dominio.Entidad.dll
+D:\RafaelMelendez\Fuentes\CotizadorParticular\CotizadorParticular.Dominio.Entidad\obj\Debug\netcoreapp3.0\CotizadorParticular.Dominio.Entidad.pdb
