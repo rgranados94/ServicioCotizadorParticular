@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Infraestructura\\CotizadorParticular.Infraestructura.csproj": {}
+    "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Infraestructura\\CotizadorParticular.Infraestructura.csproj": {}
   },
   "projects": {
-    "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Dominio.Entidad\\CotizadorParticular.Dominio.Entidad.csproj": {
+    "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Dominio.Entidad\\CotizadorParticular.Dominio.Entidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Dominio.Entidad\\CotizadorParticular.Dominio.Entidad.csproj",
+        "projectUniqueName": "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Dominio.Entidad\\CotizadorParticular.Dominio.Entidad.csproj",
         "projectName": "CotizadorParticular.Dominio.Entidad",
-        "projectPath": "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Dominio.Entidad\\CotizadorParticular.Dominio.Entidad.csproj",
-        "packagesPath": "C:\\Users\\rafael.melendez\\.nuget\\packages\\",
-        "outputPath": "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Dominio.Entidad\\obj\\",
+        "projectPath": "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Dominio.Entidad\\CotizadorParticular.Dominio.Entidad.csproj",
+        "packagesPath": "C:\\Users\\ROBERT\\.nuget\\packages\\",
+        "outputPath": "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Dominio.Entidad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\rafael.melendez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ROBERT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "D:\\#Proyectos Hundred\\CalculadoraActuarial - NetCore\\packages": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
@@ -50,35 +50,29 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Infraestructura\\CotizadorParticular.Infraestructura.csproj": {
+    "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Infraestructura\\CotizadorParticular.Infraestructura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Infraestructura\\CotizadorParticular.Infraestructura.csproj",
+        "projectUniqueName": "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Infraestructura\\CotizadorParticular.Infraestructura.csproj",
         "projectName": "CotizadorParticular.Infraestructura",
-        "projectPath": "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Infraestructura\\CotizadorParticular.Infraestructura.csproj",
-        "packagesPath": "C:\\Users\\rafael.melendez\\.nuget\\packages\\",
-        "outputPath": "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Infraestructura\\obj\\",
+        "projectPath": "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Infraestructura\\CotizadorParticular.Infraestructura.csproj",
+        "packagesPath": "C:\\Users\\ROBERT\\.nuget\\packages\\",
+        "outputPath": "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Infraestructura\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\rafael.melendez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ROBERT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,16 +80,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "D:\\#Proyectos Hundred\\CalculadoraActuarial - NetCore\\packages": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Dominio.Entidad\\CotizadorParticular.Dominio.Entidad.csproj": {
-                "projectPath": "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Dominio.Entidad\\CotizadorParticular.Dominio.Entidad.csproj"
+              "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Dominio.Entidad\\CotizadorParticular.Dominio.Entidad.csproj": {
+                "projectPath": "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Dominio.Entidad\\CotizadorParticular.Dominio.Entidad.csproj"
               },
-              "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Nucleo.DTO\\CotizadorParticular.Nucleo.DTO.csproj": {
-                "projectPath": "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Nucleo.DTO\\CotizadorParticular.Nucleo.DTO.csproj"
+              "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Nucleo.DTO\\CotizadorParticular.Nucleo.DTO.csproj": {
+                "projectPath": "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Nucleo.DTO\\CotizadorParticular.Nucleo.DTO.csproj"
               }
             }
           }
@@ -132,35 +126,29 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Nucleo.DTO\\CotizadorParticular.Nucleo.DTO.csproj": {
+    "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Nucleo.DTO\\CotizadorParticular.Nucleo.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Nucleo.DTO\\CotizadorParticular.Nucleo.DTO.csproj",
+        "projectUniqueName": "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Nucleo.DTO\\CotizadorParticular.Nucleo.DTO.csproj",
         "projectName": "CotizadorParticular.Nucleo.DTO",
-        "projectPath": "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Nucleo.DTO\\CotizadorParticular.Nucleo.DTO.csproj",
-        "packagesPath": "C:\\Users\\rafael.melendez\\.nuget\\packages\\",
-        "outputPath": "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Nucleo.DTO\\obj\\",
+        "projectPath": "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Nucleo.DTO\\CotizadorParticular.Nucleo.DTO.csproj",
+        "packagesPath": "C:\\Users\\ROBERT\\.nuget\\packages\\",
+        "outputPath": "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Nucleo.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\rafael.melendez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ROBERT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -168,13 +156,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "D:\\#Proyectos Hundred\\CalculadoraActuarial - NetCore\\packages": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Dominio.Entidad\\CotizadorParticular.Dominio.Entidad.csproj": {
-                "projectPath": "D:\\RafaelMelendez\\Fuentes\\CotizadorParticular\\CotizadorParticular.Dominio.Entidad\\CotizadorParticular.Dominio.Entidad.csproj"
+              "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Dominio.Entidad\\CotizadorParticular.Dominio.Entidad.csproj": {
+                "projectPath": "D:\\#Proyectos Hundred\\ServicioCotizadorParticular\\CotizadorParticular.Dominio.Entidad\\CotizadorParticular.Dominio.Entidad.csproj"
               }
             }
           }
@@ -197,18 +185,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
